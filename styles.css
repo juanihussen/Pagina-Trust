@@ -113,6 +113,8 @@
 .container-foto{
     position: relative;
     background-image: url("./img/FOTO ESTUDIO/FOTO ESTUDIO.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
     display: flex;
     justify-content: center;
